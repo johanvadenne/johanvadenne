@@ -1,31 +1,125 @@
-# 👋 Johan Vadenne  
+<div align="center">
 
-Je suis un développeur passionné par la création d’applications performantes, fiables et adaptées aux besoins réels.  
-Mon approche se concentre sur la **qualité du code**, la **sécurité**, et des solutions **scalables** dans différents environnements (web, mobile, desktop et serveur).
+# 👋 Hey
 
----
+**Développeur Fullstack**
+Web · Mobile · Desktop · Jeux Vidéo
 
-## 🚀 Compétences techniques  
+&nbsp;
 
-### 💻 Langages & Frameworks  
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)  ![Nod.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)  ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge)  ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)  ![Actix](https://img.shields.io/badge/Actix_Web-000000?logo=rust&logoColor=white&style=for-the-badge)  ![Leptos](https://img.shields.io/badge/Leptos-000000?logo=rust&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=svelte,rust,ts,tailwind,docker,godot,postgres,linux,nginx,git&perline=10" alt="Tech Stack" />
 
-### 🗄️ Bases de données & Serveurs  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)  
+&nbsp;
 
-### 🎮 Jeux & Apps  
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge)  ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)  ![Apache Cordova](https://img.shields.io/badge/Cordova-E8E8E8?logo=apache-cordova&logoColor=black&style=for-the-badge)  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)  
-
-### 🐧 Systèmes  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=for-the-badge)  ![Windows](https://img.shields.io/badge/Windows-478CBF?logo=windows&logoColor=white&style=for-the-badge)
+</div>
 
 ---
 
-## 📊 Statistiques GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johanvadenne&show_icons=true&theme=tokyonight)  
-![demolab](https://streak-stats.demolab.com?user=johanvadenne&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanvadenne&layout=compact&theme=tokyonight)  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=johanvadenne&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+&nbsp;
 
+## 🌐 Web
 
+<table>
+<tr><td colspan="3"><strong>Sites vitrines & Documentation</strong></td></tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=astro" width="48" alt="Astro"/><br><sub>Astro</sub></td>
+<td><img src="https://skillicons.dev/icons?i=astro" width="48" alt="Starlight"/><br><sub>Starlight</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/><br><sub>Tailwind CSS</sub></td>
+</tr>
+</table>
+
+<table>
+<tr><td colspan="4"><strong>Applications web dynamiques</strong></td></tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=svelte" width="48" alt="Svelte"/><br><sub>Svelte</sub></td>
+<td><img src="https://skillicons.dev/icons?i=svelte" width="48" alt="SvelteKit"/><br><sub>SvelteKit</sub></td>
+<td><img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/><br><sub>NestJS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/><br><sub>Tailwind CSS</sub></td>
+</tr>
+</table>
+
+<table>
+<tr><td colspan="2"><strong>🦀 Haute performance · Rust / WASM</strong></td></tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=rust" width="48" alt="Leptos"/><br><sub>Leptos</sub></td>
+<td><img src="https://skillicons.dev/icons?i=actix" width="48" alt="Actix"/><br><sub>Actix Web</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+## 📱 Mobile
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react" width="48" alt="Expo"/><br><sub>Expo Go</sub></td>
+<td><img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio"/><br><sub>Android Studio</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+## 🖥️ Desktop
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=tauri" width="48" alt="Tauri"/><br><sub>Tauri</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+## 🎮 Jeux Vidéo
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=godot" width="48" alt="Godot"/><br><sub>Godot Engine</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+## 🗄️ Données & Outils Métier
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br><sub>PostgreSQL</sub></td>
+<td><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"/><br><sub>SQLite</sub></td>
+<td><img src="https://cdn.simpleicons.org/directus/6644FF" width="48" alt="Directus"/><br><sub>Directus</sub></td>
+<td><img src="https://cdn.simpleicons.org/crunchbase/0288D1" width="48" alt="Crème CRM"/><br><sub>Crème CRM</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+## ⚙️ Infrastructure & DevOps
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx"/><br><sub>Nginx</sub></td>
+<td><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br><sub>Docker</sub></td>
+<td><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br><sub>Git</sub></td>
+<td><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br><sub>VPS Infomaniak</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+## 📊 Monitoring & Automatisation
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=grafana" width="48" alt="Grafana"/><br><sub>Grafana</sub></td>
+<td><img src="https://skillicons.dev/icons?i=prometheus" width="48" alt="Prometheus"/><br><sub>Prometheus</sub></td>
+<td><img src="https://skillicons.dev/icons?i=grafana" width="48" alt="Loki"/><br><sub>Loki</sub></td>
+<td><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" alt="n8n"/><br><sub>n8n</sub></td>
+</tr>
+</table>
+
+&nbsp;
+
+---
+
+<div align="center">
+
+</div>
