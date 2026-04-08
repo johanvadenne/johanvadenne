@@ -33,7 +33,7 @@ Web · Mobile · Desktop · Jeux Vidéo
 <tr>
 <td><img src="https://skillicons.dev/icons?i=svelte" width="48" alt="Svelte"/><br><sub>Svelte</sub></td>
 <td><img src="https://skillicons.dev/icons?i=svelte" width="48" alt="SvelteKit"/><br><sub>SvelteKit</sub></td>
-<td><img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/><br><sub>NestJS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=hono" width="48" alt="Hono"/><br><sub>Hono</sub></td>
 <td><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/><br><sub>Tailwind CSS</sub></td>
 </tr>
 </table>
@@ -86,7 +86,7 @@ Web · Mobile · Desktop · Jeux Vidéo
 <td><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br><sub>PostgreSQL</sub></td>
 <td><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"/><br><sub>SQLite</sub></td>
 <td><img src="https://cdn.simpleicons.org/directus/6644FF" width="48" alt="Directus"/><br><sub>Directus</sub></td>
-<td><img src="https://cdn.simpleicons.org/crunchbase/0288D1" width="48" alt="Crème CRM"/><br><sub>Crème CRM</sub></td>
+<td><img src="https://cdn.simpleicons.org/twenty/000000" width="48" alt="Twenty"/><br><sub>Twenty CRM</sub></td>
 </tr>
 </table>
 
