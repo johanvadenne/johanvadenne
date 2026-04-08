@@ -33,7 +33,7 @@ Web · Mobile · Desktop · Jeux Vidéo
 <tr>
 <td><img src="https://skillicons.dev/icons?i=svelte" width="48" alt="Svelte"/><br><sub>Svelte</sub></td>
 <td><img src="https://skillicons.dev/icons?i=svelte" width="48" alt="SvelteKit"/><br><sub>SvelteKit</sub></td>
-<td><img src="https://skillicons.dev/icons?i=hono" width="48" alt="Hono"/><br><sub>Hono</sub></td>
+<td><img src="https://cdn.simpleicons.org/hono" width="48" alt="Hono"/><br><sub>Hono</sub></td>
 <td><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/><br><sub>Tailwind CSS</sub></td>
 </tr>
 </table>
